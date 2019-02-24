@@ -1,3 +1,4 @@
-def meal_choice(a=meat)
-  puts meal_choice
+def meal_choice(meat) do
+  puts meal_choice 
+  expect(meal_choice)
 end
